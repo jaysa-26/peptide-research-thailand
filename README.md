@@ -1,4 +1,4 @@
-# Awesome Peptides Research Index — Thailand 🔬🇹🇭
+# Peptides Research Index — Thailand 🔬🇹🇭
 
 A curated catalog of high-purity, HPLC-certified research peptides compiled for laboratory researchers and bio-scientists in Thailand. 
 
@@ -25,7 +25,7 @@ This repository lists specifications, CAS registry numbers, molecular formulas, 
 
 We have developed an interactive Python notebook hosted on Google Colab to compute accurate draw units on insulin syringes:
 
-👉 **[Launch Interactive Reconstitution Calculator on Google Colab](https://colab.research.google.com)** (Upload the `reconstitution_calculator.ipynb` file from this repository).
+👉 **[Launch Interactive Reconstitution Calculator on Google Colab]([https://colab.research.google.com](https://colab.research.google.com/drive/1FnLIY1qMuoJoeohPzsAyqWPX4BpzYD-T?usp=sharing))** (Upload the `reconstitution_calculator.ipynb` file from this repository).
 
 ### Reconstitution Reference Grid:
 1. **Peptide Reconstitution Liquid:** Use sterile [Bacteriostatic Water 10ml](https://buypeptidethailand.com/products/bacteriostatic-water-10ml) containing 0.9% Benzyl Alcohol.
