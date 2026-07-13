@@ -1,4 +1,4 @@
-# Peptides Research Index — Thailand 🔬🇹🇭
+# Awesome Peptides Research Index — Thailand 🔬🇹🇭
 
 A curated catalog of high-purity, HPLC-certified research peptides compiled for laboratory researchers and bio-scientists in Thailand. 
 
@@ -25,7 +25,7 @@ This repository lists specifications, CAS registry numbers, molecular formulas, 
 
 We have developed an interactive Python notebook hosted on Google Colab to compute accurate draw units on insulin syringes:
 
-👉 **[Launch Interactive Reconstitution Calculator on Google Colab]([https://colab.research.google.com](https://colab.research.google.com/drive/1FnLIY1qMuoJoeohPzsAyqWPX4BpzYD-T?usp=sharing))** (Upload the `reconstitution_calculator.ipynb` file from this repository).
+👉 **[Launch Interactive Reconstitution Calculator on Google Colab](https://colab.research.google.com)** (Upload the `reconstitution_calculator.ipynb` file from this repository).
 
 ### Reconstitution Reference Grid:
 1. **Peptide Reconstitution Liquid:** Use sterile [Bacteriostatic Water 10ml](https://buypeptidethailand.com/products/bacteriostatic-water-10ml) containing 0.9% Benzyl Alcohol.
@@ -40,11 +40,21 @@ Because peptides are heat-sensitive, we enforce a strict quality control chain:
 * **Insulated Shipping:** Dispatched in thermal packaging containing active gel refrigerants to guarantee arrival below $8^\circ\text{C}$ throughout Thailand (Bangkok, Chiang Mai, Phuket, Pattaya, etc.).
 * **Courier Dispatch:** Same-day express courier dispatch for local orders.
 
+
+---
+
+## 📚 Peer-Reviewed Scientific References (NIH/PubMed)
+
+To support laboratory compliance and E-E-A-T research standards:
+
+* **Mitochondrial Protection (SS-31):** *Szeto HH. (2014).* "First-in-class cardiolipin-protective compound (SS-31) for the treatment of mitochondrial dysfunction." *British Journal of Pharmacology*, [PMID: 24397354](https://pubmed.ncbi.nlm.nih.gov/24397354/).
+* **Telomere Elongation (Epitalon):** *Anisimov VN, et al. (2001).* "Epithalon slows down aging and decreases mammary carcinogenesis in mice." *Doklady Biological Sciences*, [PMID: 11582319](https://pubmed.ncbi.nlm.nih.gov/11582319/).
+* **AMPK & Metabolism (MOTS-c):** *Lee C, et al. (2015).* "The mitochondrial-derived peptide MOTS-c promotes metabolic homeostasis and prevents obesity." *Cell Metabolism*, [PMID: 25738892](https://pubmed.ncbi.nlm.nih.gov/25738892/).
+* **Dual Agonist Receptors (Tirzepatide):** *Frias JP, et al. (2021).* "Tirzepatide versus Semaglutide Once Weekly in Patients with Type 2 Diabetes." *New England Journal of Medicine*, [PMID: 34116039](https://pubmed.ncbi.nlm.nih.gov/34116039/).
+
 ---
 
 ## 🔒 Purchasing and Verification
-
-Every batch is third-party HPLC-tested for identity and purity. Certificates of Analysis (COA) are available for laboratory validation.
 
 * **Authorized Procurement:** [Buy Peptide Thailand Store](https://buypeptidethailand.com)
 * **Secure Checkout:** Supports instant PromptPay QR transfer verification and secure local banking.
@@ -52,4 +62,4 @@ Every batch is third-party HPLC-tested for identity and purity. Certificates of 
 
 ---
 
-*Disclaimer: All compounds cataloged in this repository are intended strictly for laboratory research and in-vitro experiments. Not for human or veterinary administration.*
+*Disclaimer: All compounds cataloged in this repository are intended strictly for laboratory research and in-vitro experiments. Not for human or veterinary use.*
